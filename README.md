@@ -13,6 +13,11 @@ def (a,b):
 return a+b
 ```
 
+### Lists
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 
 ## Refrences 
