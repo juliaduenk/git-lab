@@ -4,8 +4,16 @@ Git practice laboratory
 This is a practice readme 
 ## Contents
 ### Images
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, 
-of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![Lightning McQueen](https://github.com/juliaduenk/git-lab/blob/7af894bd89d6080b1b7cd8266c59e161c5b626ed/OIP.jpg)
+
+### Code examples 
+```Python
+def (a,b):
+return a+b
+```
+
+
 
 ## Refrences 
 
