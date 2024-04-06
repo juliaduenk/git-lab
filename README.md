@@ -1,7 +1,7 @@
 # Git and git-lab laboratory
 ## Description
-Git practice laboratory
-This is a practice readme 
+This is my git practice laboratory,
+this is a practice readme 
 ## Contents
 ### Images
 ![Tec](https://github.com/juliaduenk/Tareas_individuales/blob/caab78932a8e1988f4dc8662788562b62e668bb5/download.jpg)
